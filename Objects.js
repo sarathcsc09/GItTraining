@@ -1,4 +1,4 @@
-
+   i
 
 // // Object
 // var obj = {
@@ -31,7 +31,7 @@ var mobile  = {
     length : 6,
     call : function(){
 
-        console.log(typeof mobile.call);
+        console.log(typeof mobile.callllllll);
 
 }
 
